@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/grill/static/css/main.a5641a3f.css",
-    "main.js": "/grill/static/js/main.5d4218a7.js",
-    "static/media/metal_bg.jpg": "/grill/static/media/metal_bg.823219b7f27a7892ee3a.jpg",
-    "static/media/slide3.jpg": "/grill/static/media/slide3.fabd43f9b5ac85b786cc.jpg",
-    "static/media/sp_of_the_month.png": "/grill/static/media/sp_of_the_month.a344facc3409845e2fc5.png",
-    "static/media/music.png": "/grill/static/media/music.8822494ce3bb4ccdfa22.png",
-    "static/media/slide2.jpg": "/grill/static/media/slide2.85461cacf24dedc4e354.jpg",
-    "static/media/slide1.jpg": "/grill/static/media/slide1.a23d985ea60e45757fd6.jpg",
-    "static/media/discount.png": "/grill/static/media/discount.4d99af7a248c8c2d13c0.png",
-    "static/media/method_pict.png": "/grill/static/media/method_pict.67053a65cadae5f285f7.png",
-    "static/media/menu_chicken.png": "/grill/static/media/menu_chicken.eeb28da8af0cf204268b.png",
-    "static/media/menu_pork.png": "/grill/static/media/menu_pork.71a35823a105b714cb84.png",
-    "static/media/menu_beef.png": "/grill/static/media/menu_beef.5223fcb6c6fd6eba72cd.png",
-    "static/media/footer_logo.png": "/grill/static/media/footer_logo.04e8de67699c8acccb1a.png",
-    "static/media/meat_exp.png": "/grill/static/media/meat_exp.9aa5589e75fd0760a8fa.png",
-    "index.html": "/grill/index.html",
-    "main.a5641a3f.css.map": "/grill/static/css/main.a5641a3f.css.map",
-    "main.5d4218a7.js.map": "/grill/static/js/main.5d4218a7.js.map"
+    "main.css": "/static/css/main.741150c4.css",
+    "main.js": "/static/js/main.55d7d7b9.js",
+    "static/media/metal_bg.jpg": "/static/media/metal_bg.823219b7f27a7892ee3a.jpg",
+    "static/media/slide3.jpg": "/static/media/slide3.fabd43f9b5ac85b786cc.jpg",
+    "static/media/sp_of_the_month.png": "/static/media/sp_of_the_month.a344facc3409845e2fc5.png",
+    "static/media/music.png": "/static/media/music.8822494ce3bb4ccdfa22.png",
+    "static/media/slide2.jpg": "/static/media/slide2.85461cacf24dedc4e354.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.a23d985ea60e45757fd6.jpg",
+    "static/media/discount.png": "/static/media/discount.4d99af7a248c8c2d13c0.png",
+    "static/media/method_pict.png": "/static/media/method_pict.67053a65cadae5f285f7.png",
+    "static/media/menu_chicken.png": "/static/media/menu_chicken.eeb28da8af0cf204268b.png",
+    "static/media/menu_pork.png": "/static/media/menu_pork.71a35823a105b714cb84.png",
+    "static/media/menu_beef.png": "/static/media/menu_beef.5223fcb6c6fd6eba72cd.png",
+    "static/media/footer_logo.png": "/static/media/footer_logo.04e8de67699c8acccb1a.png",
+    "static/media/meat_exp.png": "/static/media/meat_exp.9aa5589e75fd0760a8fa.png",
+    "index.html": "/index.html",
+    "main.741150c4.css.map": "/static/css/main.741150c4.css.map",
+    "main.55d7d7b9.js.map": "/static/js/main.55d7d7b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5641a3f.css",
-    "static/js/main.5d4218a7.js"
+    "static/css/main.741150c4.css",
+    "static/js/main.55d7d7b9.js"
   ]
 }
