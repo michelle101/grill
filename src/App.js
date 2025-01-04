@@ -15,6 +15,7 @@ function App() {
         <Route path='/about' element= {<About />} />
         <Route path='/method' element={<Method />} />
        </Routes>
+          <h1>this is the homepage </h1>
        <Footer />
     </div>
   );
