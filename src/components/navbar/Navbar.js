@@ -7,7 +7,7 @@ export const Navbar = () => {
         <Link to='/'><img className='logo' src={logo} alt='Grill House' /></Link>
         
         <ul>
-            <li><NavLink to='/home'>Home</NavLink></li>
+            <li><NavLink to='/'>Home</NavLink></li>
             <li><NavLink to='/menu'>Menu</NavLink></li>
             <li><NavLink to='/specials'>Specials</NavLink></li>
             <li><NavLink to='/about'>About</NavLink></li>
